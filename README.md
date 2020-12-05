@@ -2,7 +2,7 @@
 
 Day 7: Count Down Timer
 
-<!-- ![demo](./color.gif) -->
+![demo](./timer.gif)
 
 ## Description
 Create a count down timer.
@@ -14,3 +14,4 @@ Create a count down timer.
   + [Create React App](https://github.com/facebook/create-react-app)
 
 ## Reference
+- [Let's build a countdown timer](https://codeburst.io/lets-build-a-countdown-timer-with-react-part-1-2e7d5692d914)
